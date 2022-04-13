@@ -37,9 +37,7 @@ function grid() {
 }
 
 function counters() {
-  if (gameOver) {
-    return;
-  }
+
 
   let coords = this.id.split("-") //
   let r = parseInt(coords[0])
@@ -118,26 +116,23 @@ function checkWinner() {
 }
 }
 
-// function gameDrawn(_r,_c){
-//   if (counters.includes(0)) {
-//     confirm("Game Is Drawn")
-//     gameOver = true
-//   }
-// }
-
 // if the game is won this will display the winner
 function gameWon(r,c){ // created function of Game Won 
   let winner = document.getElementById("winner")  // this will get the h2 heading from HTML
   if (board[r][c] === playerTwo) {  // if statement if the row/
-    winner.style.color = 'blue' // colour of text 
-    winner.innerText = 'Yellow Has Won'
+    winner.style.color = 'yellow' // colour of text
+    winner.innerText = alert ('Congratulations !!! Yellow Has Won')
+    winner.innerText = 'Yellow has won'
+    // gameOver = true
   }else{
-    winner.style.color = 'grey'  // colour of text
-    winner.innerText = 'Red Has Won.'
-
+    winner.style.color = 'red'  // colour of text
+    winner.innerText = alert ('Congratulations!!! Red Has Won.')
+    winner.innerText = 'Red has won'
+    // gameOver = true
   }
   gameOver = true
 }
+
 
 
 
