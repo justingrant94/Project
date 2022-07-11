@@ -22,6 +22,7 @@ I had a week to create a grid based game using Javascript, HTML and css. I chose
 Technologies used: 
 
 **HTML**
+<img width="209" alt="Screenshot 2022-07-11 at 17 10 59" src="https://user-images.githubusercontent.com/73545574/178309261-86d27361-4960-4273-b585-361564ad6610.png">
 1. H1 consisting of the header
 2. H2 ID tag being the winner
 3. DIV ID being the board.
@@ -29,9 +30,16 @@ Technologies used:
 1. Using flex-box
 2. colours for the counters Red and Blue
 3. Styling for the slots to appear as circles.
-4. Javascript
-5. Click events for the counters
-6. Creating a set interval as I wanted to remove the text after a certain amount of time.
+
+<img width="347" alt="Screenshot 2022-07-11 at 17 14 34" src="https://user-images.githubusercontent.com/73545574/178309976-e43ec159-fe3e-4c7c-8d24-414c8f85437d.png">
+
+
+**Javascript**
+1. Starting with the first red counter first
+2. understanding that I had to create an empty board and cells array and aldso track them.
+
+<img width="291" alt="Screenshot 2022-07-11 at 17 19 08" src="https://user-images.githubusercontent.com/73545574/178310810-44855190-5554-4085-89da-531cbd30bf6e.png">
+
 
 **The approach taken:**
 
@@ -45,7 +53,7 @@ https://excalidraw.com/#json=XlkZCNJ4gu3N2D2oDLYqb,rOFVjY0Y1bjnCeZWcixJmQ
 
 **Day 3:** I then realised my wireframe/plan wasn't well thought through as I needed to alternate between the two counters which I did research for and there were resources online which made this do-able.
 
-**Day 4:** I created the function checkWinner which was the most challenging part of the game as I needed to make sure that if four connects are matching that the user is notified, which took me a few days to get the hang of it which i referred to a lot of my resources from StackOverflow.
+**Day 4:** I created the function checkWinner which was the most challenging part of the game as I needed to make sure that if four connects are matching that the user is notified, which took me a few days to get the hang of it which I referred to a lot of my resources from StackOverflow.
 
 **Day 5 & 6:** After understanding how to create the Vertical and Horizontal checks the diagonal checks were a little different as the logic was a little more complicated. After looking into various articles I came across an article that explained the logic in a way I understood what to do.
 
