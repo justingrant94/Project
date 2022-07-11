@@ -13,7 +13,7 @@ PROJECT 1 - CONNECT 4
 
 Game’s Link: 
 
-https://justingrant94.github.io/Project/
+https://justingrant94.github.io/ProjectOne---Connect4/
 
 Overview and concept:
 
