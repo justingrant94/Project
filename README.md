@@ -66,7 +66,8 @@ When the game starts: its players turn, which is the red counter.
 
 **KeyLearnings:**
 
-Learned how to use Flexbox from scratch - which I referred to https://jonitrythall.com/flexbox-cheatsheet for much aided support throughout my styling.
+Learned how to use Flexbox from scratch -
+which I referred to https://jonitrythall.com/flexbox-cheatsheet for much aided support throughout my styling.
 
 I used the alert pop up to notify the user that won.
 
