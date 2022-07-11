@@ -22,10 +22,13 @@ I had a week to create a grid based game using Javascript, HTML and css. I chose
 Technologies used: 
 
 **HTML**
-<img width="209" alt="Screenshot 2022-07-11 at 17 10 59" src="https://user-images.githubusercontent.com/73545574/178309261-86d27361-4960-4273-b585-361564ad6610.png">
+
 1. H1 consisting of the header
 2. H2 ID tag being the winner
 3. DIV ID being the board.
+
+<img width="209" alt="Screenshot 2022-07-11 at 17 10 59" src="https://user-images.githubusercontent.com/73545574/178309261-86d27361-4960-4273-b585-361564ad6610.png">
+
 **CSS**
 1. Using flex-box
 2. colours for the counters Red and Blue
