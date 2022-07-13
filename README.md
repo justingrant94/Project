@@ -32,8 +32,9 @@ I had a week to create a grid based game using Javascript, HTML and CSS. I chose
 
 **CSS**
 1. Using flex-box.
-2. Colours for the counters Red and Blue.
+2. Colours for the counters being Red and Yellow.
 3. Styling for the slots to appear as circles.
+4. The grid being Blue.
 
 <img width="347" alt="Screenshot 2022-07-11 at 17 14 34" src="https://user-images.githubusercontent.com/73545574/178309976-e43ec159-fe3e-4c7c-8d24-414c8f85437d.png">
 
