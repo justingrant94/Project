@@ -31,7 +31,7 @@ Technologies used:
 
 **CSS**
 1. Using flex-box
-2. colours for the counters Red and Blue
+2. Colours for the counters Red and Blue
 3. Styling for the slots to appear as circles.
 
 <img width="347" alt="Screenshot 2022-07-11 at 17 14 34" src="https://user-images.githubusercontent.com/73545574/178309976-e43ec159-fe3e-4c7c-8d24-414c8f85437d.png">
@@ -39,15 +39,14 @@ Technologies used:
 
 **Javascript**
 1. Starting with the first red counter first
-2. understanding that I had to create an empty board and cells array and aldso track them.
+2. Understanding that I had to create an empty board and cells array and aldso track them.
 
 <img width="291" alt="Screenshot 2022-07-11 at 17 19 08" src="https://user-images.githubusercontent.com/73545574/178310810-44855190-5554-4085-89da-531cbd30bf6e.png">
 
 
 **The approach taken:**
 
-
-**Day 1:** - for my first project, my plan and wireframe help as I had a little direction as to how I needed to start, my understanding on how to create a wireframe was quite limited which is quite evident with what was created.
+**Day 1:* For my first project, my plan and wireframe help as I had a little direction as to how I needed to start, my understanding on how to create a wireframe was quite limited which is quite evident with what was created.
 the link for wireframe:
 
 https://excalidraw.com/#json=XlkZCNJ4gu3N2D2oDLYqb,rOFVjY0Y1bjnCeZWcixJmQ
