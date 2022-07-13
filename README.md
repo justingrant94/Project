@@ -54,7 +54,7 @@ The first thing I had to do was create the grid in which the Connect 4 game can 
 
 **Day 1:** As this was my first project, my wireframe helped as I had direction as to how I needed to start, my understanding on how to create a wireframe was quite limited which is quite evident with what was created.
 
-**the link for wireframe:**
+**Excalidraw link for wireframe:**
 
 https://excalidraw.com/#json=XlkZCNJ4gu3N2D2oDLYqb,rOFVjY0Y1bjnCeZWcixJmQ
 
