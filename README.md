@@ -23,22 +23,23 @@ I had a week to create a grid based game using Javascript, HTML and CSS. I chose
 
 **HTML**
 
-1. H1 consisting of the header
-2. H2 ID tag being the winner
+1. H1 consisting of the header.
+2. H2 ID tag being the winner.
 3. DIV ID being the board.
 
-<img width="347" alt="Screenshot 2022-07-13 at 12 52 54" src="https://user-images.githubusercontent.com/73545574/178727518-09b49656-71aa-4ae9-bf73-24bf025a9fda.png">
+<img width="1332" alt="Screenshot 2022-07-13 at 12 52 54" src="https://user-images.githubusercontent.com/73545574/178727607-6d6cf0c3-5747-4ab2-afbc-3c765674d12f.png">
+
 
 **CSS**
-1. Using flex-box
-2. Colours for the counters Red and Blue
+1. Using flex-box.
+2. Colours for the counters Red and Blue.
 3. Styling for the slots to appear as circles.
 
 <img width="347" alt="Screenshot 2022-07-11 at 17 14 34" src="https://user-images.githubusercontent.com/73545574/178309976-e43ec159-fe3e-4c7c-8d24-414c8f85437d.png">
 
 
 **Javascript**
-1. Starting with the red counter first
+1. Starting with the red counter first.
 2. Understanding that I had to create an empty board and cells array and also track them.
 
 <img width="291" alt="Screenshot 2022-07-11 at 17 19 08" src="https://user-images.githubusercontent.com/73545574/178310810-44855190-5554-4085-89da-531cbd30bf6e.png">
