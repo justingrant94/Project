@@ -102,7 +102,7 @@ I used the alert pop up to notify the user that won.
 
 **1.** The user is notified quite late that they are the winner and disappears quite quickly which is set up from the function that I had created which could be amended by delaying the setTimeout function as it disappears after four seconds.
 
-<img width="347" alt="Screenshot 2022-07-13 at 12 18 16" src="https://user-images.githubusercontent.com/73545574/178723014-f07a55f4-4dee-4ef6-a645-4b34050c968e.png">
+<img width="400" alt="Screenshot 2022-07-13 at 12 18 16" src="https://user-images.githubusercontent.com/73545574/178723014-f07a55f4-4dee-4ef6-a645-4b34050c968e.png">
 
 
 
