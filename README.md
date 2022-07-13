@@ -50,14 +50,13 @@ The first thing I had to do, was creating the grid in which the Connect 4 game c
 
 <img width="408" alt="Screenshot 2022-07-13 at 11 44 13" src="https://user-images.githubusercontent.com/73545574/178716684-c45d8a3a-af48-4cb9-a5f9-1f3c50b3c0a2.png">
 
-
 **Day 1:** As this was my first project, my wireframe helped as I had direction as to how I needed to start, my understanding on how to create a wireframe was quite limited which is quite evident with what was created.
 
 **the link for wireframe:**
 
 https://excalidraw.com/#json=XlkZCNJ4gu3N2D2oDLYqb,rOFVjY0Y1bjnCeZWcixJmQ
 
-**Day 2:** I created the grid in Javascript which was quite straight forward as I referred to the notes that I has made previously in class, as I also knew the width and row I had to create a variable for that too.
+**Day 2:** I created the grid in Javascript which was quite straight forward as I referred to the notes that I had made previously in class, as I also knew the width and row I had to create a variable for that too.
 
 **Day 3:** I then realised my wireframe/plan wasn't well thought through as I needed to alternate between the two counters which I did research for and there were resources online which made this do-able.
 
