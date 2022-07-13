@@ -11,11 +11,11 @@ PROJECT 1 - CONNECT 4
 </br>
 📫 How to reach me justingrant373@gmail.com
 
-Game’s Link: 
+**Game’s Link:** 
 
 https://justingrant94.github.io/ProjectOne---Connect4/
 
-Overview and concept:
+**Overview and concept:**
 
 I had a week to create a grid based game using Javascript, HTML and CSS. I chose to create the old school game Connect 4, my game is quite simple, it's a two player game. 
 
