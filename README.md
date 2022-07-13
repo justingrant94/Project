@@ -62,16 +62,16 @@ https://excalidraw.com/#json=XlkZCNJ4gu3N2D2oDLYqb,rOFVjY0Y1bjnCeZWcixJmQ
 
 **Day 4:** I created the function checkWinner which was the most challenging part of the game as I needed to make sure that if four counters are matching that the user is notified that they are the winner, with multiple arguments which was added to the function that if any of the below match the game will then need to be reset.
 
+
+Below I created an if statement that if any of the rows and columns do match what instance I would like to happen, any time a slot is clicked on it will check if there is already a counter there.
+
+With the functions below checking the various instances on the rows and columns matching, this was one of the biggest challenges for the project, as I had to understand the logic behind the mechanics of the game, and also understanding that arrays start at 0 as opposed to one which created  some major obstacles initially.
+
 <img width="917" alt="Screenshot 2022-07-13 at 12 42 49" src="https://user-images.githubusercontent.com/73545574/178725980-6cc4d51e-2593-41fd-ac7b-a54a9e265ba6.png">
 <img width="1094" alt="Screenshot 2022-07-13 at 12 42 44" src="https://user-images.githubusercontent.com/73545574/178725973-ce2f0fb2-5d44-4452-8649-3c236ec579bb.png">
 <img width="924" alt="Screenshot 2022-07-13 at 12 42 52" src="https://user-images.githubusercontent.com/73545574/178725982-cc0e191a-0fd6-4dbe-8571-c242f3f949c6.png">
 <img width="953" alt="Screenshot 2022-07-13 at 12 42 57" src="https://user-images.githubusercontent.com/73545574/178725985-cfc43e33-3b77-4374-a514-ecc131c4a9b3.png">
 
-
-
-
-
-Above I created an if statement that if any of the rows and columns do match what instance I would like to happen, any time a slot is clicked on it will check if there is already a counter there.
 
 I then had to create the gameWon function below. If one of the users are the winners an alert message pops up on the screen congratulating the winner.
 
