@@ -46,7 +46,12 @@ I had a week to create a grid based game using Javascript, HTML and CSS. I chose
 
 **The approach taken:**
 
-**Day 1:** For my first project, my plan and wireframe helped as I had direction as to how I needed to start, my understanding on how to create a wireframe was quite limited which is quite evident with what was created.
+The first thing I had to do, was creating the grid in which the Connect 4 game can run. To do this I used DOM manipulation which allowed me to push the empty cells into the empty div that you can see has been created. I opted for 7 rows and 6 columns in height, and used the loop function to create the grid which you can see below.
+
+<img width="408" alt="Screenshot 2022-07-13 at 11 44 13" src="https://user-images.githubusercontent.com/73545574/178716684-c45d8a3a-af48-4cb9-a5f9-1f3c50b3c0a2.png">
+
+
+**Day 1:** As this was my first project, my wireframe helped as I had direction as to how I needed to start, my understanding on how to create a wireframe was quite limited which is quite evident with what was created.
 
 **the link for wireframe:**
 
