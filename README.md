@@ -95,7 +95,7 @@ I used the alert pop up to notify the user that won.
 
 **1.** One of my main challenges was displaying the four counters that won. What I faced was as soon as the user wins the counters disappear, which I believe is down to the remove function that I created. However, when I uncommented the remove function it then displayed the counters but the game continued so I couldn't figure out how to stop that from happening.
 
-**2.** The second challenge was creating a set timer that disappeared after 5 seconds.
+**2.** The second challenge was creating a set timer that disappeared after four seconds.
 
 **3.** I wanted the user to have an option to play again once this has been completed which I failed to achieve. 
 
