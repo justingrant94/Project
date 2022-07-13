@@ -109,10 +109,15 @@ I then had to create the gameWon function below. If one of the users are the win
 
 **Future Improvements:**
 **1.** Bug Fixes
+
 **2.** Giving the user an option to play the computer and maybe on various difficulties.
-**3.** Adding sound to the game would make it more enjoyable especially for the users experience.
+
+**3.** Adding sound to the game would make it more enjoyable, especially for the user's experience.
+
 **4.** Creating a scoreboard when playing the computer or against another user.
+
 **5.** Create a prompt so the user can add their name.
+
 **6.** I would like to make it more personal so a pop up of the user that won the game.
 
 
