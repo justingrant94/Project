@@ -100,5 +100,6 @@ I used the alert pop up to notify the user that won.
 
 
 
+**2** When the game has been restarted by refreshing the browser the red counter doesn’t appear but it states that yellow has won, with the yellow counter appearing and disappearing after four seconds.
 
 
