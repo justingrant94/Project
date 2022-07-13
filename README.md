@@ -74,8 +74,8 @@ https://excalidraw.com/#json=XlkZCNJ4gu3N2D2oDLYqb,rOFVjY0Y1bjnCeZWcixJmQ
 Above I created an if statement that if any of the rows and columns do match what instance I would like to happen, any time a slot is clicked on it will check if there is already a counter there.
 
 I then had to create the gameWon function below. If one of the users are the winners an alert message pops up on the screen congratulating the winner.
-<img width="647" alt="Screenshot 2022-07-13 at 12 04 20" src="https://user-images.githubusercontent.com/73545574/178725919-5490ff8a-60d8-4a6c-bebb-28229a2abec1.png">
 
+<img width="647" alt="Screenshot 2022-07-13 at 12 04 20" src="https://user-images.githubusercontent.com/73545574/178725919-5490ff8a-60d8-4a6c-bebb-28229a2abec1.png">
 
 
 **Day 5 & 6:** After understanding how to create the Vertical and Horizontal checks the diagonal checks were a little different as the logic was a little more complicated. After looking into various articles I came across an article that explained the logic in a way I understood what to do.
