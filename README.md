@@ -109,15 +109,15 @@ I used the alert pop up to notify the user that won.
 
 **Future Improvements:**
 **1.** Bug Fixes
-**2.** Giving the user an option to play the computer and maybe on various diffculties.
+**2.** Giving the user an option to play the computer and maybe on various difficulties.
 **3.** Adding sound to the game would make it more enjoyable.
 **4.** Creating a scoreboard when playing the computer or against another user.
 
 **Wins & Key Learnings:**
 
-I learnt how important arrays are and how it gives you the ability to store multiple arguments in a function, which going into the project I never had a great understanding on how it works and the importance of what a good function can do, and also the importantance of 'DRY' which could have been a lot better, which I have challenged myself to adopt that approach going on forward. 
+I learnt how important arrays are and how it gives you the ability to store multiple arguments in a function, which going into the project I never had a great understanding on how it works and the importance of what a good function can do, and also the importance of 'DRY' which could have been a lot better, which I have challenged myself to adopt that approach going on forward. 
 
-This project was massively enjoyable throughout the project I really quetioned whether or not I would be able to create the game as there were various obstacles that I came across. However, this project gave me great insight on how keeping the readability of your code clean and uncluttered helps a lot with debugging. 
+This project was massively enjoyable throughout the project. I really questioned whether or not I would be able to create the game as there were various obstacles that I came across. However, this project gave me great insight on how keeping the readability of your code clean and uncluttered helps a lot with debugging. 
 
 
 
