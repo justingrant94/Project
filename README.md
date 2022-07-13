@@ -21,7 +21,7 @@ I had a week to create a grid based game using Javascript, HTML and CSS. I chose
 
 **Technologies used:** 
 
-**HTML**
+**HTML:**
 
 1. H1 consisting of the header.
 2. H2 ID tag being the winner.
@@ -30,7 +30,7 @@ I had a week to create a grid based game using Javascript, HTML and CSS. I chose
 <img width="1332" alt="Screenshot 2022-07-13 at 12 52 54" src="https://user-images.githubusercontent.com/73545574/178727607-6d6cf0c3-5747-4ab2-afbc-3c765674d12f.png">
 
 
-**CSS**
+**CSS:**
 1. Using flex-box.
 2. Colours for the counters being Red and Yellow.
 3. Styling for the slots to appear as circles.
@@ -39,7 +39,7 @@ I had a week to create a grid based game using Javascript, HTML and CSS. I chose
 <img width="347" alt="Screenshot 2022-07-11 at 17 14 34" src="https://user-images.githubusercontent.com/73545574/178309976-e43ec159-fe3e-4c7c-8d24-414c8f85437d.png">
 
 
-**Javascript**
+**Javascript:**
 1. Starting with the red counter first.
 2. Understanding that I had to create an empty board and cells array and also track them.
 
