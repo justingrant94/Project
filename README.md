@@ -17,9 +17,9 @@ https://justingrant94.github.io/ProjectOne---Connect4/
 
 Overview and concept:
 
-I had a week to create a grid based game using Javascript, HTML and css. I chose to create the old school game connect 4, my game is quite simple its a two player game. 
+I had a week to create a grid based game using Javascript, HTML and CSS. I chose to create the old school game connect 4, my game is quite simple it's a two player game. 
 
-Technologies used: 
+**Technologies used:** 
 
 **HTML**
 
@@ -38,16 +38,17 @@ Technologies used:
 
 
 **Javascript**
-1. Starting with the first red counter first
-2. Understanding that I had to create an empty board and cells array and aldso track them.
+1. Starting with the red counter first
+2. Understanding that I had to create an empty board and cells array and also track them.
 
 <img width="291" alt="Screenshot 2022-07-11 at 17 19 08" src="https://user-images.githubusercontent.com/73545574/178310810-44855190-5554-4085-89da-531cbd30bf6e.png">
 
 
 **The approach taken:**
 
-**Day 1:** For my first project, my plan and wireframe help as I had a little direction as to how I needed to start, my understanding on how to create a wireframe was quite limited which is quite evident with what was created.
-the link for wireframe:
+**Day 1:** For my first project, my plan and wireframe helped as I had direction as to how I needed to start, my understanding on how to create a wireframe was quite limited which is quite evident with what was created.
+
+**the link for wireframe:**
 
 https://excalidraw.com/#json=XlkZCNJ4gu3N2D2oDLYqb,rOFVjY0Y1bjnCeZWcixJmQ
 
@@ -55,15 +56,15 @@ https://excalidraw.com/#json=XlkZCNJ4gu3N2D2oDLYqb,rOFVjY0Y1bjnCeZWcixJmQ
 
 **Day 3:** I then realised my wireframe/plan wasn't well thought through as I needed to alternate between the two counters which I did research for and there were resources online which made this do-able.
 
-**Day 4:** I created the function checkWinner which was the most challenging part of the game as I needed to make sure that if four connects are matching that the user is notified, which took me a few days to get the hang of it which I referred to a lot of my resources from StackOverflow.
+**Day 4:** I created the function checkWinner which was the most challenging part of the game as I needed to make sure that if four connects that the user is notified, which took me a few days to get the hang of it which I referred to a lot of my resources from StackOverflow and the likes of YouTube.
 
 **Day 5 & 6:** After understanding how to create the Vertical and Horizontal checks the diagonal checks were a little different as the logic was a little more complicated. After looking into various articles I came across an article that explained the logic in a way I understood what to do.
 
-**Day 7:** **DEADLINE DAY** just making sure the final bits are done and the styling is how i see fit.
+**Day 7:** **DEADLINE DAY** just making sure the final bits are done and the styling is how I see fit.
 
-When the game starts: its players turn, which is the red counter.
+**When the game starts:** When the games start it's player ones turn which is the red counter.
 
-**KeyLearnings:**
+**Key Learnings:**
 
 Learned how to use Flexbox from scratch -
 which I referred to https://jonitrythall.com/flexbox-cheatsheet for much aided support throughout my styling.
@@ -72,7 +73,7 @@ I used the alert pop up to notify the user that won.
 
 **Challenges:**
 
-**1.** One of my main challenges was displaying the four counters that won. What I faced was as soon as the user wins the counters disappear, which i believe is down to the remove function that i created. However, when I uncommented the remove function it then displayed the counters but the game continued so I couldn't figure out how to stop that from happening.
+**1.** One of my main challenges was displaying the four counters that won. What I faced was as soon as the user wins the counters disappear, which I believe is down to the remove function that I created. However, when I uncommented the remove function it then displayed the counters but the game continued so I couldn't figure out how to stop that from happening.
 
 **2.** The second challenge was creating a set timer that disappeared after 5 seconds.
 
