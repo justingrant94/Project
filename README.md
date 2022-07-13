@@ -59,7 +59,7 @@ https://excalidraw.com/#json=XlkZCNJ4gu3N2D2oDLYqb,rOFVjY0Y1bjnCeZWcixJmQ
 
 **Day 5 & 6:** After understanding how to create the Vertical and Horizontal checks the diagonal checks were a little different as the logic was a little more complicated. After looking into various articles I came across an article that explained the logic in a way I understood what to do.
 
-**Day 7:** DEADLINE DAY just making sure the final bits are done and the styling is how i see fit.
+**Day 7:** **DEADLINE DAY** just making sure the final bits are done and the styling is how i see fit.
 
 When the game starts: its players turn, which is the red counter.
 
