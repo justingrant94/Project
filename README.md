@@ -66,6 +66,8 @@ Above I created an if statement that if any of the rows and columns do match wha
 
 I then had to create the gameWon function below. If one of the users are the winners an alert message pops up on the screen congratulating the winner.
 
+<img width="347" alt="Screenshot 2022-07-13 at 12 04 20" src="https://user-images.githubusercontent.com/73545574/178723247-9a7f4767-6774-4d88-a5c7-774fbeb78d58.png">
+
 **Day 5 & 6:** After understanding how to create the Vertical and Horizontal checks the diagonal checks were a little different as the logic was a little more complicated. After looking into various articles I came across an article that explained the logic in a way I understood what to do.
 
 **Day 7:** **DEADLINE DAY** just making sure the final bits are done and the styling is how I see fit.
