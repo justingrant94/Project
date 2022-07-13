@@ -46,7 +46,7 @@ Technologies used:
 
 **The approach taken:**
 
-**Day 1:* For my first project, my plan and wireframe help as I had a little direction as to how I needed to start, my understanding on how to create a wireframe was quite limited which is quite evident with what was created.
+**Day 1:** For my first project, my plan and wireframe help as I had a little direction as to how I needed to start, my understanding on how to create a wireframe was quite limited which is quite evident with what was created.
 the link for wireframe:
 
 https://excalidraw.com/#json=XlkZCNJ4gu3N2D2oDLYqb,rOFVjY0Y1bjnCeZWcixJmQ
