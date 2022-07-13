@@ -27,7 +27,7 @@ I had a week to create a grid based game using Javascript, HTML and CSS. I chose
 2. H2 ID tag being the winner
 3. DIV ID being the board.
 
-<img width="347" alt="Screenshot 2022-07-11 at 17 10 59" src="https://user-images.githubusercontent.com/73545574/178309261-86d27361-4960-4273-b585-361564ad6610.png">
+<img width="347" alt="Screenshot 2022-07-13 at 12 52 54" src="https://user-images.githubusercontent.com/73545574/178727518-09b49656-71aa-4ae9-bf73-24bf025a9fda.png">
 
 **CSS**
 1. Using flex-box
