@@ -99,11 +99,6 @@ I used the alert pop up to notify the user that won.
 
 **3.** I wanted the user to have an option to play again once this has been completed which I failed to achieve. 
 
-**Future Improvements:**
-
-**1.** I would like to make it more personal so a pop up of the username.
-
-**2.** Create a prompt so the user can add their 
 
 **Bugs:**
 
@@ -122,6 +117,9 @@ I used the alert pop up to notify the user that won.
 **2.** Giving the user an option to play the computer and maybe on various difficulties.
 **3.** Adding sound to the game would make it more enjoyable.
 **4.** Creating a scoreboard when playing the computer or against another user.
+**5.** Create a prompt so the user can add their name.
+**6.** I would like to make it more personal so a pop up of the username.
+
 
 **Wins & Key Learnings:**
 
