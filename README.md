@@ -84,13 +84,6 @@ I then had to create the gameWon function below. If one of the users are the win
 
 **When the game starts:** When the games start it's the player's turn which is the red counter.
 
-**Key Learnings:**
-
-Learned how to use Flexbox from scratch -
-which I referred to https://jonitrythall.com/flexbox-cheatsheet for much aided support throughout my styling.
-
-I used the alert pop up to notify the user that won.
-
 **Challenges:**
 
 **1.** One of my main challenges was displaying the four counters that won. What I faced was as soon as the user wins the counters disappear, which I believe is down to the remove function that I created. However, when I uncommented the remove function it then displayed the counters but the game continued so I couldn't figure out how to stop that from happening.
@@ -126,6 +119,9 @@ I used the alert pop up to notify the user that won.
 I learnt how important arrays are and how it gives you the ability to store multiple arguments in a function, which going into the project I never had a great understanding on how it works and the importance of what a good function can do, and also the importance of 'DRY' which could have been a lot better, which I have challenged myself to adopt that approach going on forward. 
 
 This project was massively enjoyable throughout the project. I really questioned whether or not I would be able to create the game as there were various obstacles that I came across. However, this project gave me great insight on how keeping the readability of your code clean and uncluttered helps a lot with debugging. 
+
+Learned how to use Flexbox from scratch -
+which I referred to https://jonitrythall.com/flexbox-cheatsheet for much aided support throughout my styling.
 
 
 
