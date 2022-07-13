@@ -115,10 +115,10 @@ I used the alert pop up to notify the user that won.
 **Future Improvements:**
 **1.** Bug Fixes
 **2.** Giving the user an option to play the computer and maybe on various difficulties.
-**3.** Adding sound to the game would make it more enjoyable.
+**3.** Adding sound to the game would make it more enjoyable especially for the users experience.
 **4.** Creating a scoreboard when playing the computer or against another user.
 **5.** Create a prompt so the user can add their name.
-**6.** I would like to make it more personal so a pop up of the username.
+**6.** I would like to make it more personal so a pop up of the user that won the game.
 
 
 **Wins & Key Learnings:**
