@@ -5,7 +5,7 @@ PROJECT 1 - CONNECT 4
 </br>
 👀 I’m interested in music, all things media, automation, cycling and cocktails.
 </br>
-🌱 My first project using HTML, Javascript and CSS, just currently everything 🤣 
+🌱 My first project using HTML, JavaScript and CSS, just currently everything 🤣 
 </br>
 💞️ I’m looking to collaborate on any music related projects
 </br>
@@ -17,7 +17,7 @@ https://justingrant94.github.io/ProjectOne---Connect4/
 
 **Overview and concept:**
 
-I had a week to create a grid based game using Javascript, HTML and CSS. I chose to create the old school game Connect 4, my game is quite simple, it's a two player game. 
+I had a week to create a grid based game using JavaScript, HTML and CSS. I chose to create the old school game Connect 4, my game is quite simple, it's a two player game. 
 
 **Technologies used:** 
 
@@ -39,7 +39,7 @@ I had a week to create a grid based game using Javascript, HTML and CSS. I chose
 <img width="347" alt="Screenshot 2022-07-11 at 17 14 34" src="https://user-images.githubusercontent.com/73545574/178309976-e43ec159-fe3e-4c7c-8d24-414c8f85437d.png">
 
 
-**Javascript:**
+**JavaScript:**
 1. Starting with the red counter first.
 2. Understanding that I had to create an empty board and cells array and also track them.
 
@@ -58,7 +58,7 @@ The first thing I had to do was create the grid in which the Connect 4 game can 
 
 https://excalidraw.com/#json=XlkZCNJ4gu3N2D2oDLYqb,rOFVjY0Y1bjnCeZWcixJmQ
 
-**Day 2:** I created the grid in Javascript which was quite straight forward as I referred to the notes that I had made previously in class, as I also knew the width and row I had to create a variable for that too.
+**Day 2:** I created the grid in JavaScript which was quite straight forward as I referred to the notes that I had made previously in class, as I also knew the width and row I had to create a variable for that too.
 
 **Day 3:** I then realised my wireframe/plan wasn't well thought through as I needed to alternate between the two counters which I did research for and there were resources online which made this do-able.
 
