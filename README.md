@@ -108,6 +108,7 @@ I then had to create the gameWon function below. If one of the users are the win
 <img width="347" alt="Screenshot 2022-07-13 at 12 19 23" src="https://user-images.githubusercontent.com/73545574/178722510-2a59967c-6955-4a10-89cf-49ecd3c85315.png">
 
 **Future Improvements:**
+
 **1.** Bug Fixes
 
 **2.** Giving the user an option to play the computer and maybe on various difficulties.
